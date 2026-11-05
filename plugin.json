@@ -1,0 +1,12 @@
+{
+    "id": "server-list-players",
+    "name": "Player Counter - Server List Extension",
+    "author": "Claude.ai & Koscheburn",
+    "version": "1.0.1",
+    "description": "Shows the live player count (from the Player Counter plugin) on every server card in the server list.",
+    "category": "plugin",
+    "namespace": "ServerListPlayers",
+    "class": "ServerListPlayersPlugin",
+    "panels": ["app"],
+    "api_version": 1
+}
